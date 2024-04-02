@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class ArrayIndexExample {
+public class ArrayIndex {
 
     public static void main(String[] args) {
         //generate an array of "50" double values
