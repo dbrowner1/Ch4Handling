@@ -1,3 +1,9 @@
+/**Class: ArrayIndex
+ * @author D Browner
+ * @version 1.6
+ * Course: ITEC 2140 Spring 2023
+ * Written: March 27, 2024
+ */
 import java.util.Random;
 import java.util.Scanner;
 
