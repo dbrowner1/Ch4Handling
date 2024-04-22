@@ -1,3 +1,9 @@
+/**Class: Tri
+ * @author D Browner
+ * @version 1.6
+ * Course: ITEC 2140 Spring 2023
+ * Written: March 27, 2024
+ */
 class IllegalTriangleSideException extends Exception {
     public IllegalTriangleSideException(String message) {
         super(message);
